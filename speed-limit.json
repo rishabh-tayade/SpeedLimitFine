@@ -1,0 +1,32 @@
+{
+    "highway": {
+      "TwoWheeler": 80,
+      "FourWheeler": 100,
+      "Bus": 90,
+      "Truck": 80
+    },
+    "schoolzone": {
+      "TwoWheeler": 30,
+      "FourWheeler": 30,
+      "Bus": 20,
+      "Truck": 20
+    },
+    "market": {
+      "TwoWheeler": 40,
+      "FourWheeler": 30,
+      "Bus": 20,
+      "Truck": 15
+    },
+    "residential": {
+      "TwoWheeler": 30,
+      "FourWheeler": 20,
+      "Bus": 15,
+      "Truck": 10
+    },
+    "default": {
+      "TwoWheeler": 60,
+      "FourWheeler": 60,
+      "Bus": 50,
+      "Truck": 50
+    }
+  }
