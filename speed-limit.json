@@ -18,10 +18,10 @@
       "Truck": 15
     },
     "residential": {
-      "TwoWheeler": 30,
-      "FourWheeler": 20,
-      "Bus": 15,
-      "Truck": 10
+      "TwoWheeler": 35,
+      "FourWheeler": 35,
+      "Bus": 20,
+      "Truck": 20
     },
     "default": {
       "TwoWheeler": 60,
